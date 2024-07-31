@@ -1,6 +1,6 @@
 {
     "name": "cordova-plugin-file-move",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A custom Cordova plugin to move files from app directories to an external USB drive on iOS.",
     "cordova": {
       "id": "cordova-plugin-file-move",

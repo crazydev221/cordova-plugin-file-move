@@ -1,6 +1,6 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         id="cordova-plugin-file-move"
-        version="1.1.0">
+        version="1.0.1">
     <name>FileMovePlugin</name>
     <js-module src="www/FileMovePlugin.js" name="FileMovePlugin">
         <clobbers target="FileMovePlugin" />
