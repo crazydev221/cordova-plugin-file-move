@@ -1,5 +1,6 @@
 import UIKit
 import MobileCoreServices
+import Foundation
 
 @objc(FileMovePlugin) class FileMovePlugin: CDVPlugin, UIDocumentPickerDelegate {
     var callbackId: String?
